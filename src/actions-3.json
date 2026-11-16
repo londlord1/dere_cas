@@ -1,0 +1,310 @@
+[
+ {
+  "type": "click",
+  "selector": "#startBtn"
+ },
+ {
+  "type": "click",
+  "selector": "[data-char='yuki']"
+ },
+ {
+  "type": "assert",
+  "selector": "#speechName",
+  "property": "text",
+  "equals": "Юки"
+ },
+ {
+  "type": "assert",
+  "selector": "#speechArch",
+  "property": "text",
+  "equals": "дандере"
+ },
+ {
+  "type": "click",
+  "selector": "[data-game='dice']"
+ },
+ {
+  "type": "click",
+  "selector": "[data-dice='seven']"
+ },
+ {
+  "type": "click",
+  "selector": "#rollBtn"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rollBtn",
+  "property": "text",
+  "equals": "Бросить"
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "type": "click",
+  "selector": "#introTitle"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ },
+ {
+  "type": "assert",
+  "selector": "#introTitle",
+  "property": "text",
+  "equals": "NEON OASIS"
+ }
+]

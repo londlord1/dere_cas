@@ -1,0 +1,1016 @@
+[
+ {
+  "type": "click",
+  "selector": "#startBtn"
+ },
+ {
+  "type": "click",
+  "selector": "[data-char='yuki']"
+ },
+ {
+  "type": "assert",
+  "selector": "#speechName",
+  "property": "text",
+  "equals": "Юки"
+ },
+ {
+  "type": "assert",
+  "selector": "#speechArch",
+  "property": "text",
+  "equals": "дандере"
+ },
+ {
+  "type": "click",
+  "selector": "[data-game='roulette']"
+ },
+ {
+  "type": "click",
+  "selector": "[data-chip='100']"
+ },
+ {
+  "type": "click",
+  "selector": "[data-bet='red']"
+ },
+ {
+  "type": "assert",
+  "selector": "#tableTotal",
+  "property": "text",
+  "equals": "100"
+ },
+ {
+  "type": "click",
+  "selector": "#rouletteSpin"
+ },
+ {
+  "type": "assert",
+  "selector": "#rouletteSpin",
+  "property": "text",
+  "equals": "Крутим…"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rankBadge",
+  "property": "text",
+  "equals": "Новичок"
+ },
+ {
+  "type": "assert",
+  "selector": "#rouletteSpin",
+  "property": "text",
+  "equals": "Крутить"
+ }
+]
